@@ -1,4 +1,4 @@
-# Person Tracking Project README
+# Person Tracking Project
 This project implements a person tracking system using the YOLO (You Only Look Once) object detection and tracking framework. It processes input videos to track either a single person or multiple persons, drawing bounding boxes and movement paths with consistent colors. Two models are provided: Model 1 (using YOLOv10n and YOLOv8n) and Model 2 (using YOLOv8n exclusively). The project is designed to run in Google Colab, leveraging Ultralytics YOLO for robust tracking and OpenCV for video processing.
 
 Table of Contents
